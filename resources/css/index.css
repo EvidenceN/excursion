@@ -28,3 +28,15 @@ p{
 	font-size: 21px;
 	color: gray;
 }
+
+.footer {
+	text-align: right;
+}
+
+.coming-soon {
+	margin-bottom: 20px;
+}
+
+.image {
+	margin-top: 20px;
+}
